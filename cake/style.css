@@ -1,0 +1,15 @@
+img{
+	width:100%;
+}
+.shop{
+	background-color: #F78486;
+	width: 100%;
+}
+.cakes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.cakes img{
+	width: 50%;
+}
